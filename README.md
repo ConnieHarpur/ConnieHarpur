@@ -1,5 +1,3 @@
-Connie Harpur 
-<!---
-ConnieHarpur/ConnieHarpur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a NERC funded PhD student at the University of Leeds, where I study lake-terminating glaciers in Greeenland. 
+
+Before this, I completed a BSc in Geography and an MRes in Antarctic glaciology at Durham University. My research uses satellite remote sensing to assess changes in glacier behaviour, as well as structure from motion techniques to observe iceberg calving at high resolutions.    
